@@ -3,6 +3,7 @@ setup.cfg
 setup.py
 jackal_control/__init__.py
 jackal_control/odom_listener.py
+jackal_control/traj_plotter.py
 jackal_control.egg-info/PKG-INFO
 jackal_control.egg-info/SOURCES.txt
 jackal_control.egg-info/dependency_links.txt

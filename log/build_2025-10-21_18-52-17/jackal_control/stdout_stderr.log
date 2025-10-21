@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing jackal_control.egg-info/PKG-INFO
+writing dependency_links to jackal_control.egg-info/dependency_links.txt
+writing entry points to jackal_control.egg-info/entry_points.txt
+writing requirements to jackal_control.egg-info/requires.txt
+writing top-level names to jackal_control.egg-info/top_level.txt
+reading manifest file 'jackal_control.egg-info/SOURCES.txt'
+writing manifest file 'jackal_control.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/prachit/jackal_ws/install/jackal_control/lib/python3.10/site-packages/jackal-control.egg-link (link to .)
+Installing listener script to /home/prachit/jackal_ws/install/jackal_control/lib/jackal_control
+Installing traj_plotter script to /home/prachit/jackal_ws/install/jackal_control/lib/jackal_control
+
+Installed /home/prachit/jackal_ws/build/jackal_control
+running symlink_data

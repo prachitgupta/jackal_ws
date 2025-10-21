@@ -1,0 +1,18 @@
+[0.408s] Invoking command in '/home/prachit/jackal_ws/build/jackal_control': PYTHONPATH=/home/prachit/jackal_ws/build/jackal_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prachit/jackal_ws/install/jackal_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/prachit/jackal_ws/build/jackal_control/build --no-deps symlink_data
+[0.565s] running develop
+[0.668s] running egg_info
+[0.669s] writing jackal_control.egg-info/PKG-INFO
+[0.669s] writing dependency_links to jackal_control.egg-info/dependency_links.txt
+[0.669s] writing entry points to jackal_control.egg-info/entry_points.txt
+[0.669s] writing requirements to jackal_control.egg-info/requires.txt
+[0.669s] writing top-level names to jackal_control.egg-info/top_level.txt
+[0.670s] reading manifest file 'jackal_control.egg-info/SOURCES.txt'
+[0.670s] writing manifest file 'jackal_control.egg-info/SOURCES.txt'
+[0.671s] running build_ext
+[0.672s] Creating /home/prachit/jackal_ws/install/jackal_control/lib/python3.10/site-packages/jackal-control.egg-link (link to .)
+[0.672s] Installing listener script to /home/prachit/jackal_ws/install/jackal_control/lib/jackal_control
+[0.672s] Installing traj_plotter script to /home/prachit/jackal_ws/install/jackal_control/lib/jackal_control
+[0.672s] 
+[0.672s] Installed /home/prachit/jackal_ws/build/jackal_control
+[0.673s] running symlink_data
+[0.702s] Invoked command in '/home/prachit/jackal_ws/build/jackal_control' returned '0': PYTHONPATH=/home/prachit/jackal_ws/build/jackal_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/prachit/jackal_ws/install/jackal_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/prachit/jackal_ws/build/jackal_control/build --no-deps symlink_data
