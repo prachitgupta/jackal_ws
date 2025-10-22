@@ -26,6 +26,7 @@ setup(
         'console_scripts': [
         'listener = jackal_control.odom_listener:main',
         'traj_plotter = jackal_control.traj_plotter:main',
+        'circle = jackal_control.circle:main'
         ],
     },
 )

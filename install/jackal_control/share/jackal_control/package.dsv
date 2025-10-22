@@ -4,6 +4,3 @@ source;share/jackal_control/hook/pythonpath.sh
 source;share/jackal_control/hook/ament_prefix_path.ps1
 source;share/jackal_control/hook/ament_prefix_path.dsv
 source;share/jackal_control/hook/ament_prefix_path.sh
-source;../../build/jackal_control/share/jackal_control/hook/pythonpath_develop.ps1
-source;../../build/jackal_control/share/jackal_control/hook/pythonpath_develop.dsv
-source;../../build/jackal_control/share/jackal_control/hook/pythonpath_develop.sh
