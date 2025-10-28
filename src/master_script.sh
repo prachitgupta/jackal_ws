@@ -13,7 +13,7 @@ HOST_IP="$2"
 
 # Workspaces to source
 WORKSPACES=(
-    "$HOME/ros-humble-ros1-bridge/install/setup.bash"
+    "$HOME/ros-humble-ros1-bridge/install/local_setup.bash"
     "$HOME/jackal_ws/install/setup.bash"
     "$HOME/colcon_ws/install/setup.bash"
 )
