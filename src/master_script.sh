@@ -88,7 +88,7 @@ gnome-terminal -- bash -c "
     exec bash
 "
 
-sleep 5
+sleep 1
 
 # ----------------------------
 # Terminal 5: Trajectory plotter
